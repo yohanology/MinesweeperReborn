@@ -1,0 +1,28 @@
+{
+  "name": "MinesweeperReborn",
+  "version": "0.0.1",
+  "homepage": "https://github.com/yohanology/MinesweeperReborn",
+  "authors": [
+    "Yohan <yohanology@gmail.com>"
+  ],
+  "description": "WDI-HK-8 Project 1 - Avoid and find the mines.",
+  "main": "index.html",
+  "keywords": [
+    "minesweeper",
+    "mine",
+    "game",
+    "wdi",
+    "hk"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
